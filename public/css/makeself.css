@@ -1,0 +1,39 @@
+
+body{
+  max-width: 1000px;
+  margin: auto;
+}
+
+.head-title{
+  color: red;
+  margin-left: 0px;
+}
+div{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#メニュー{
+  margin-top: 20px;
+}
+#menu{
+  display: inline;
+  margin-left: 20px;
+}
+
+small{
+  font-size: 10px;
+}
+
+.each-title{
+  text-align: center;
+}
+
+.projects{
+  font-size: 30px;
+}
+
+.pagelinks{
+  width: 300px;
+  margin: auto;
+}
